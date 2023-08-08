@@ -23,5 +23,6 @@ public class Constructor
    S.name = "ram";
    S.add  = "rakesh nagar";
    S.age  = 25;
+   S.Studinfo();	  
   }
 }
